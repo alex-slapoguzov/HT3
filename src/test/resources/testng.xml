@@ -4,7 +4,6 @@
     <test name="GitHubTestsSuite" >
 
         <parameter name="userName" value="alex-slapoguzov"/>
-
         <classes>
             <class name="com.epam.ta.GitHubAutomationTest">
             </class>
